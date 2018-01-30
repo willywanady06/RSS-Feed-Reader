@@ -1,0 +1,10 @@
+F:\C#\RSS Feed Reader\RSS Feed Reader\bin\Debug\RSS Feed Reader.exe.config
+F:\C#\RSS Feed Reader\RSS Feed Reader\bin\Debug\RSS Feed Reader.exe
+F:\C#\RSS Feed Reader\RSS Feed Reader\bin\Debug\RSS Feed Reader.pdb
+F:\C#\RSS Feed Reader\RSS Feed Reader\obj\Debug\RSS Feed Reader.csprojResolveAssemblyReference.cache
+F:\C#\RSS Feed Reader\RSS Feed Reader\obj\Debug\RSS_Feed_Reader.Form1.resources
+F:\C#\RSS Feed Reader\RSS Feed Reader\obj\Debug\RSS_Feed_Reader.Properties.Resources.resources
+F:\C#\RSS Feed Reader\RSS Feed Reader\obj\Debug\RSS Feed Reader.csproj.GenerateResource.Cache
+F:\C#\RSS Feed Reader\RSS Feed Reader\obj\Debug\RSS Feed Reader.csproj.CoreCompileInputs.cache
+F:\C#\RSS Feed Reader\RSS Feed Reader\obj\Debug\RSS Feed Reader.exe
+F:\C#\RSS Feed Reader\RSS Feed Reader\obj\Debug\RSS Feed Reader.pdb
